@@ -10,3 +10,6 @@
   * [® Sistema de Operação Android](android-road-map/sistema-de-operacao-android/README.md)
     * [🤼♀ Suporte a vários usuários.](android-road-map/sistema-de-operacao-android/suporte-a-varios-usuarios..md)
     * [⛔ Permissões Android](android-road-map/sistema-de-operacao-android/permissoes-android.md)
+  * [👩🍳 App Manifest](android-road-map/app-manifest/README.md)
+    * [📦 Pacote](android-road-map/app-manifest/pacote.md)
+  * [🧩 Componentes do App](android-road-map/componentes-do-app.md)

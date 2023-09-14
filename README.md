@@ -22,3 +22,11 @@ layout:
 {% content-ref url="android-road-map/sistema-de-operacao-android/" %}
 [sistema-de-operacao-android](android-road-map/sistema-de-operacao-android/)
 {% endcontent-ref %}
+
+{% content-ref url="android-road-map/app-manifest/" %}
+[app-manifest](android-road-map/app-manifest/)
+{% endcontent-ref %}
+
+{% content-ref url="android-road-map/componentes-do-app.md" %}
+[componentes-do-app.md](android-road-map/componentes-do-app.md)
+{% endcontent-ref %}
